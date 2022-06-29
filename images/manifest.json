@@ -1,0 +1,67 @@
+{
+  "id" : "https://Philipp-Schneider.github.io/Heraldic-Murals/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Philipp-Schneider/Heraldic-Murals project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3096,
+    "id" : "https://Philipp-Schneider.github.io/Heraldic-Murals/images/Heilig_Geist-Eselsgesellschaft4214/canvas/",
+    "label" : {
+      "none" : [ "Heilig_Geist-Eselsgesellschaft4214" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Philipp-Schneider.github.io/Heraldic-Murals/images/Heilig_Geist-Eselsgesellschaft4214/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Philipp-Schneider.github.io/Heraldic-Murals/images/Heilig_Geist-Eselsgesellschaft4214/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 97,
+              "height" : 74
+            }, {
+              "width" : 194,
+              "height" : 147
+            }, {
+              "width" : 387,
+              "height" : 293
+            }, {
+              "width" : 774,
+              "height" : 585
+            }, {
+              "width" : 1548,
+              "height" : 1169
+            }, {
+              "width" : 3096,
+              "height" : 2337
+            } ],
+            "profile" : "level0",
+            "width" : 3096,
+            "id" : "https://Philipp-Schneider.github.io/Heraldic-Murals/images/Heilig_Geist-Eselsgesellschaft4214",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2337
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3096,
+          "id" : "https://Philipp-Schneider.github.io/Heraldic-Murals/images/Heilig_Geist-Eselsgesellschaft4214/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2337
+        },
+        "target" : "https://Philipp-Schneider.github.io/Heraldic-Murals/images/Heilig_Geist-Eselsgesellschaft4214/canvas/"
+      } ]
+    } ],
+    "height" : 2337
+  } ]
+}
